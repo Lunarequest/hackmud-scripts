@@ -7,6 +7,10 @@
 		"package-lock.json": true,
 		"patches": true,
 		"LICENSE": true,
-		"player.d.ts": true
+		"player.d.ts": true,
+		"**/*.rpyc": true,
+		"**/*.rpa": true,
+		"**/*.rpymc": true,
+		"**/cache/": true
 	}
 }
