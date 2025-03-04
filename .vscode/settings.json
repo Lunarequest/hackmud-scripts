@@ -12,5 +12,6 @@
 		"**/*.rpa": true,
 		"**/*.rpymc": true,
 		"**/cache/": true
-	}
+	},
+	"hackmud-color.enabled": true
 }
